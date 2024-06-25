@@ -2,8 +2,8 @@
 <h3 align="center"> Hello League of Legends fans !✨ </h3> 
 
 <h4>This project is a champion selection animation for the game League of Legends. The character of the moment is Evelynn, a poisonous woman from the middle of the game.</h4>
-<h3 align="center">Technologies used:</h3>
-  <ul align="center">
+<h3>Technologies used:</h3>
+  <ul>
    <img align="center" alt="SD-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
    <img align="center" alt="SD-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </ul>
