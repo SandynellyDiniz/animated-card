@@ -12,9 +12,3 @@
 <div align="center">
   <img src="https://github.com/SandynellyDiniz/animated-card/assets/160080540/68cf4d80-e700-40e7-8ae6-a2799fe1ca35" width="500">
 </div>
-
-<h3 align="center">Animation in movement:</h3>
-<video  align="center" src ="https://github.com/SandynellyDiniz/animated-card/assets/160080540/ce48c9d1-8444-423d-88ef-061a0c6ca677"></video>
-
-
-
